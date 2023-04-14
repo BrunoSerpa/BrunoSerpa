@@ -13,6 +13,16 @@ Meu nome é Bruno Serpa Pereira Carvalho e, atualmente, sou aluno da Fatec de SJ
 # 💼Profissão
 Atualmente não trabalho, porém busco por qualquer estágio ou vaga na área de tecnologia
 
+# 📚Conhecimentos
+<h2>Conhecimento Intermediário:
+    SQL, Python, HTML E CSS</h2>
+<h2>Conhecimentos Básicos:
+    SQL, Flask e Git
+</h2>
+
+<h2>Conhecimento Mínimo:
+    Javascript, PHP, C# , Arduino.
+</h2>
 # 🗣️Contato
 <h2>✉️Email: brunospc2005@gmail.com </h2>
 <h2>👤Rede Social:
