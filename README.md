@@ -1,7 +1,7 @@
 
 # Prazer! me chamo Bruno
 
-<h3> Bem vindo ao meu reposítório, a baixo terá um link para facilitar o que você deseja sabem de mim:</h3>
+<h3> Bem vindo ao meu reposítório, abaixo terá um link para facilitar o que você deseja sabem de mim:↓↓</h3>
 
 <h4 align="Center">
     <a href="#quemSou">Quem Sou</a> |
