@@ -1,5 +1,6 @@
 <span id="inicio">
 
+ 
 # Prazer! me chamo Bruno
 
 <h3> Bem vindo ao meu reposítório, abaixo terá um link para facilitar o que você deseja sabem de mim:↓↓</h3>
@@ -14,6 +15,7 @@
 
 <span id="graficos">
 
+
 # 📈Gráficos
 
 <div align="center">
@@ -25,6 +27,7 @@
 <h3> <a align="center" href="#inicio">Voltar para o Início⇈</a> </h3>
 
 <span id="quemSou">
+
 
 # 🙋🏽‍♂️Quem Sou?
 
@@ -38,6 +41,7 @@
 
 <span id="conhecimentos">
 
+
 # 📚Conhecimentos
 
 <h2>Conhecimentos Intermediários:
@@ -50,6 +54,7 @@
 </h2>
 
 <span id="contato">
+
 
 # 🗣️Contato
 <h3>✉️Email: brunospc2005@gmail.com </h2>
