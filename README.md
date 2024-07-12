@@ -50,11 +50,9 @@
 
 ### ✉️ Email: brunospc2005@gmail.com
 
-<h3> 👤 Rede Social:
-    <a href="https://www.linkedin.com/in/BrunoSerpa" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</h3>
+<a href="https://www.linkedin.com/in/BrunoSerpa" target="_blank">
+    <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <div align="center">
     <a href="#inicio">Voltar para o Início ⇈</a>
